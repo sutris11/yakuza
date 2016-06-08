@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hello
+=======
+# the story of albert einstein
+>>>>>>> 9289055a41e8688342a1a885404bd66e98737281
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
